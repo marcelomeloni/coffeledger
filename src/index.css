@@ -1,0 +1,9 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo opcional de teste */
+body {
+  font-family: 'Inter', sans-serif;
+}
